@@ -1,1 +1,2 @@
-# Project1ComplicatedVersion
+# Project1SimpleVersion
+Using trace back algorithm

@@ -1,7 +1,6 @@
-// Jerry Roth
-// CS 3270
-// Project 1 - Sudoku Solver
-// Oct. 2006
+//Name: Simin Wen
+//VUnetid: wens3
+//email address: simin.wen@vanderbilt.edu
 
 #include <iostream>
 #include <string>

@@ -1,6 +1,7 @@
-//
-// Created by SiminWen on 2/2/2017.
-//
+//Name: Simin Wen
+//VUnetid: wens3
+//email address: simin.wen@vanderbilt.edu
+
 #include <iostream>
 #include<fstream>
 #include <deque>

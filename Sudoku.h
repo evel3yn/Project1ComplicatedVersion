@@ -1,6 +1,6 @@
-//
-// Created by SiminWen on 2/2/2017.
-//
+//Name: Simin Wen
+//VUnetid: wens3
+//email address: simin.wen@vanderbilt.edu
 
 #ifndef SUDOK_SUDOKU_H
 #define SUDOK_SUDOKU_H
