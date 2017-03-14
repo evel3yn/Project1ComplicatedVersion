@@ -70,7 +70,7 @@ bool Sudoku::isPlace(int count) {
 
 bool Sudoku::backtrace(int count) {
     //flag==1: already success
-    int flag = 0;
+    bool flag;
     if (count == 81) {
         return true;
     }
@@ -102,7 +102,7 @@ bool Sudoku::backtrace(int count) {
         //analyze the next element
         flag = backtrace(count + 1);
         //return the flag
-        return (bool) flag;
+        return flag;
     }
 }
 
